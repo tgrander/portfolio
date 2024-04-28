@@ -32,20 +32,20 @@ const work = await Promise.all(
 
 <PageLayout title={HOME.TITLE} description={HOME.DESCRIPTION}>
   <Container>
-    <h4 class="animate font-semibold text-black dark:text-white">
-      Hello, I'm Trey.
+    <h4 class="animate font-semibold text-black dark:text-white mb-8">
+      Hello, I'm Trey. 👨🏽‍💻
     </h4>
     <div class="space-y-16">
       <section>
         <article class="space-y-4">
+          <h1 class="">FRONT-END ENGINEER</h1>
           <p class="animate">
-            Transforming ideas into exceptional web experiences through cutting-edge front-end development and unwavering dedication to craft.
+            Creator of digital experiences. I transforming ideas into exceptional web experiences through cutting-edge front-end development and unwavering dedication to craft.
           </p>
           <p class="animate">
-            
           </p>
           <p class="animate">
-            NYC
+            📍 NYC
           </p>
         </article>
       </section>
@@ -77,9 +77,9 @@ const work = await Promise.all(
             See all work
           </Link>
         </div>
-        <ul class="flex flex-col space-y-4">
+        <ul class="flex flex-col space-y-6">
           {work.map(entry => (
-            <li>
+            <li class="space-y-1">
               <div class="text-sm opacity-75">
                 {dateRange(entry.data.dateStart, entry.data.dateEnd)}
               </div>
