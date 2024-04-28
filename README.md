@@ -1,64 +1,32 @@
-![Astro Nano](_astro_nano.png)
+# Welcome to Trey's Portfolio
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+I'm Trey, a seasoned Front End Engineer specializing in building accessible, high-performance web applications. My current stack of choice employs a mix of modern technologies like React, Next.js, TypeScript, and Node to create scalable solutions that meet contemporary digital needs.
 
-Built with Astro, Tailwind and Typescript, an no frameworks.
+## About Me
 
-It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+With over 7 years of experience in the tech industry, I have honed my skills in front-end development and am passionate about transforming complex project requirements into functional, user-friendly software. My career is built on a foundation of robust technical expertise, creative problem-solving, and an unwavering commitment to delivering exceptional results.
 
-## 🚀 Deploy your own
+## Work Experience
 
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano)
+[Work Experience](/work)
 
-## 📋 Features
+## Projects
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
+[Projects](/projects)
 
-## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](_lighthouse.png)
+## Blog
 
-## 🕊️ Lightweight
-No frameworks or added bulk
+[Blog](/blog)
 
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
+## Skills
 
-## 📄 Configuration
+- **Languages**: TypeScript, JavaScript (ES6+)
+- **Frameworks/Libraries**: React, Next.js, Node
+- **Tools & Platforms**: GraphQL, AWS, Docker, Vercel
+- **Design**: Tailwind CSS, Responsive Web Design
+- **Principles**: CI/CD, Unit Testing, Accessibility, Performance Optimization
 
-The blog posts on the demo serve as the documentation and configuration.
+## Contact Me
 
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run dev:network`     | Starts local dev server on local network         |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run preview:network` | Preview build on local network                   |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
-
-## 🏛️ License
-
-MIT
+- **LinkedIn**: [linkedin.com/in/treygranderson](https://www.linkedin.com/in/treygranderson)
+- **GitHub**: [github.com/treygranderson](https://github.com/treygranderson)
