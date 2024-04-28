@@ -1,6 +1,6 @@
-# Welcome to Trey's Portfolio
+# Trey's Portfolio
 
-I'm Trey, a seasoned Front End Engineer specializing in building accessible, high-performance web applications. My current stack of choice employs a mix of modern technologies like React, Next.js, TypeScript, and Node to create scalable solutions that meet contemporary digital needs.
+Hello, I'm Trey, a seasoned Front End Engineer specializing in building accessible, high-performance web applications. My current stack of choice employs a mix of modern technologies like React, Next.js, TypeScript, and Node to create scalable solutions that meet contemporary digital needs.
 
 ## About Me
 
