@@ -1,8 +1,8 @@
 ---
-company: "BēKIN"
-role: "Co-founder & CTO"
-dateStart: "Feb 2021"
-dateEnd: "June 2024"
+company: "Mercury"
+role: "Front End Engineer"
+dateStart: "Sep 2024"
+dateEnd: "Present"
 ---
 
 <!-- Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora. -->
